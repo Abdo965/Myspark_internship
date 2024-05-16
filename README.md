@@ -7,9 +7,10 @@ this project focus on comparison between built in Ml algorithms and implementing
 *  how can you modify in it to achieve your goals 
 *  this comparison will make your understanding better 
 
-
+https://www.python-engineer.com/assets/images/social/posts/ml-from-scratch-guide.png
 ## Watch the full material from here
 [Watch the video tutorial here](https://www.youtube.com/watch?v=qU9bTIy9k90&list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA&index=21&t=79s)
+
 
   
 ## How to install this in your local pc
