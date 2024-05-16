@@ -10,6 +10,7 @@ this project focus on comparison between built in Ml algorithms and implementing
 
 ## Watch the full material from here
 <a href="[https://www.youtube.com/playlist?list=PLSVCAHoiHC_rqKbcu1ummWVpLTDBNZHH7](https://www.youtube.com/watch?v=qU9bTIy9k90&list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA&index=21&t=79s)" target="_blank">
+</a>    
   
 ## How to install this in your local pc
 * clone this project
